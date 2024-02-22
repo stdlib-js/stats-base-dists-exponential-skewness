@@ -67,7 +67,7 @@ The [skewness][skewness] for an [exponential][exponential-distribution] random v
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@v0.2.1-esm/index.mjs';
 ```
 
 #### skewness( lambda )
@@ -117,7 +117,7 @@ var v = skewness( -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@v0.2.1-esm/index.mjs';
 
 var lambda;
 var v;
