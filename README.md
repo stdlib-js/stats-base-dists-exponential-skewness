@@ -67,6 +67,11 @@ The [skewness][skewness] for an [exponential][exponential-distribution] random v
 ## Usage
 
 ```javascript
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-exponential-skewness/tags). For example,
+
+```javascript
 import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@v0.2.1-deno/mod.js';
 ```
 
@@ -112,7 +117,7 @@ var v = skewness( -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@v0.2.1-deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@deno/mod.js';
 
 var lambda;
 var v;
