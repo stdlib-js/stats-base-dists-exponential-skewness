@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-19)
+
+<section class="features">
+
+### Features
+
+-   [`584df38`](https://github.com/stdlib-js/stdlib/commit/584df38b388c730c3291dae63ef9241802e5371d) - add C implementation for `stats/base/dists/exponential/skewness` [(#4056)](https://github.com/stdlib-js/stdlib/pull/4056)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3591](https://github.com/stdlib-js/stdlib/issues/3591)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`584df38`](https://github.com/stdlib-js/stdlib/commit/584df38b388c730c3291dae63ef9241802e5371d) - **feat:** add C implementation for `stats/base/dists/exponential/skewness` [(#4056)](https://github.com/stdlib-js/stdlib/pull/4056) _(by JoyBoy, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   JoyBoy
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
