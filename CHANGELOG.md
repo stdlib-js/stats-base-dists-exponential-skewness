@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-21)
+## Unreleased (2025-08-25)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`48e624a`](https://github.com/stdlib-js/stdlib/commit/48e624ae6f8c1a23367bd315d9520f8d28880154) - **test:** match tolerance used for JS implementation _(by Philipp Burckhardt)_
 -   [`0449885`](https://github.com/stdlib-js/stdlib/commit/044988596dc1f7bc9084033663a426ef366e564c) - **docs:** replace manual `for` loop in examples [(#7367)](https://github.com/stdlib-js/stdlib/pull/7367) _(by Harsh)_
 -   [`55636e4`](https://github.com/stdlib-js/stdlib/commit/55636e401a4c7c504a41ecb511dc6d55206fdc4a) - **docs:** fix closing comment tags _(by Athan Reines)_
