@@ -67,7 +67,7 @@ The [skewness][skewness] for an [exponential][exponential-distribution] random v
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@v0.3.0-deno/mod.js';
 ```
 
 #### skewness( lambda )
@@ -110,7 +110,7 @@ var v = skewness( -1.0 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@v0.3.0-deno/mod.js';
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 
