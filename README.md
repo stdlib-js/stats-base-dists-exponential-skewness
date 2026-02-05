@@ -67,6 +67,11 @@ The [skewness][skewness] for an [exponential][exponential-distribution] random v
 ## Usage
 
 ```javascript
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-exponential-skewness/tags). For example,
+
+```javascript
 import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@v0.3.1-esm/index.mjs';
 ```
 
@@ -115,7 +120,7 @@ var v = skewness( -1.0 );
 <body>
 <script type="module">
 
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@v0.3.1-esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-skewness@esm/index.mjs';
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 
